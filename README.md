@@ -18,20 +18,20 @@ Sesuai dengan panduan Fase 1:
 * `LOGBOOK.md` : Catatan aktivitas mingguan anggota kelompok.
 
 # Infrastruktur Target
-Hostname: `SRV-WEB-KEL03G.`
-OS: Linux (Metasploitable 2).
-IP Address: `192.168.3.5`.
-Hardening Status: UFW Active (Default deny incoming, Allow port 80 & 22).
+* Hostname: `SRV-WEB-KEL03G.`
+* OS: Linux (Metasploitable 2).
+* IP Address: `192.168.3.5`.
+* Hardening Status: UFW Active (Default deny incoming, Allow port 80 & 22).
 
 # Infrastruktur Attacker [Cyberops Workstation VM]
-Hostname: `analyst`.
-OS: Linux (CyberOps LabVM).
-IP Address: `192.168.3.100`.
-Tools Utama: Nmap (untuk scanning) dan Ping (untuk host discovery).
+* Hostname: `analyst`.
+* OS: Linux (CyberOps LabVM).
+* IP Address: `192.168.3.100`.
+* Tools Utama: Nmap (untuk scanning) dan Ping (untuk host discovery).
 
 # Infrastruktur Monitoring
-Hostname: `SecOnion`. 
-OS: Security Onion.
-IP Address: `192.168.0.1` (Management).
-Monitoring Method: IDS (Sguil/Squert) dan manual log analysis melalui `tcpdump`.
-Interface: `eth0` (Promiscuous Mode - Listening).
+* Hostname: `SecOnion`. 
+* OS: Security Onion.
+* IP Address: `192.168.0.1` (Management).
+* Monitoring Method: IDS (Sguil/Squert) dan manual log analysis melalui `tcpdump`.
+* Interface: `eth0` (Promiscuous Mode - Listening).
