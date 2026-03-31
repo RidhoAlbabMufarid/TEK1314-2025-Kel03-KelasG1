@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk mensimulasikan pengamanan jaringan pada server web Me
 
 # Struktur Repositori
 Sesuai dengan panduan Fase 1:
-* '/docs/phase-1-baseline/' : Laporan Hardening & Logging (Minggu 5-7).
-* '/docs/phase-2-va/' : Analisis Kerentanan (Vulnerability Assessment).
-* '/docs/phase-3-incident/' : Laporan Penanganan Insiden.
-* 'LOGBOOK.md' : Catatan aktivitas mingguan anggota kelompok.
+* `/docs/phase-1-baseline/` : Laporan Hardening & Logging (Minggu 5-7).
+* `/docs/phase-2-va/` : Analisis Kerentanan (Vulnerability Assessment).
+* `/docs/phase-3-incident/` : Laporan Penanganan Insiden.
+* `LOGBOOK.md` : Catatan aktivitas mingguan anggota kelompok.
