@@ -32,6 +32,10 @@
     * **Verifikasi**: Uji coba serangan ringan (Nmap) untuk memicu log pada IDS Security Onion.
 * **Hasil**: Dokumentasi **Security Baseline** selesai dan infrastruktur siap untuk Fase Serangan (Minggu 9).
 * **PIC**: Imam Yanif & Ridho Albab Mufarid.
+  
+### Update Minggu 7: Monitoring & Hardening Baseline (Checkpoint Akhir Fase 1)
+* **Aktivitas**:
+   * Melakukan rekonstruksi topologi dari model Switching ke model Routing sesuai arahan dosen.
 
 ---
 # Catatan Tambahan
