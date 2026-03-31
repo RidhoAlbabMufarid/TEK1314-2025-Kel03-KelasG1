@@ -2,10 +2,12 @@
 Repositori Tugas PBL Kelompok 03 - Kelas G1: Network Perimeter Guard (Hardening Metasploitable 2 &amp; Security Onion Monitoring).
 
 Kelompok 03 | TRK60/G1
-Anggota
-  1. Ridho Albab Mufarid - J0404231153 - Lead Analyst
-  2. Ahmad Fauzan - J0404231027 - Network Engineer 
-  3. Imam Yanif - J0404231044 - Security Analyst
+Anggota Kelompok:
+| Nama                  | NIM          | Peran             |
+|-----------------------|--------------|-------------------|
+| Ridho Albab Mufarid   | J0404231153  | Lead Analyst      |
+| Ahmad Fauzan          | J0404231027  | Network Engineer  |
+| Imam Yanif            | J0404231044  | Security Analyst  |
 
 # Deskripsi Proyek
 Proyek ini bertujuan untuk mensimulasikan pengamanan jaringan pada server web Metasploitable menggunakan Security Onion sebagai sistem monitoring (IDS) dan penerapan teknik hardening melalui firewall UFW untuk meminimalkan celah keamanan pada perimeter jaringan
