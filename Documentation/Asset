@@ -1,0 +1,5 @@
+Hostname,IP Address,Sistem Operasi,Role,Service,Keterangan
+SRV-WEB-KEL03G,192.168.3.5 /24,Linux Metasploitable 2,Web Server,HTTP/Apache,Target Utama Hardening UFW
+analyst,192.168.3.100 /24,Linux Cisco Cyberops,Attacker,-,Node Simulasi Serangan (Nmap/Ping)
+SecOnion,192.168.0.1 /24,Linux Security Onion,SIEM / NIDS,Sguil/Kibana,Merekam Aktivitas Jaringan (Monitoring)
+Switch-01,192.168.3.0 /24,Internal Network (intnet),Network Switch,-,Switch Virtual Penghubung Node
